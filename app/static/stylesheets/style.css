@@ -7,18 +7,19 @@ body, html {
   padding: 0;
   margin: 0;
   font-family: sans-serif;
-  color: #333;
+  color: #1E3E62;
+  background-color: #0B192C;
 }
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #FF6500;
   font-weight: bold;
   transition: color .1s;
 }
 
 a:hover {
-  color: #3486eb;
+  color: #000;
 }
 
 button {
@@ -83,7 +84,7 @@ header {
 }
 
 header h1 {
-  font-size: 1em;
+  font-size: 3em;
 }
 
 main {
@@ -125,7 +126,7 @@ main {
 .post .title span {
   font-style: italic;
   font-size: 90%;
-  color: #7d7d7d;
+  color: #ffca8d;
 }
 
 .edit-link {
